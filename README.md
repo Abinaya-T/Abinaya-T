@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/abinaya-t/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-I am a Full-Stack Web developer. Prior to this, I was working as a Data Analyst and before that as an Application Support Engineer. I am a continuous learner and interested in solving business problems with tech. 
+I am a Full-Stack developer. Prior to this, I was working as a Data Analyst and before that as an Application Support Engineer. I am a continuous learner and interested in solving business problems with tech. 
 
 My project includes:
 
